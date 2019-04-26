@@ -8,3 +8,5 @@ Keperluan tugas laboratorium Sistem Operasi 2019
 </center>
 
 ---
+
+Mohon maaf belum optimal mengerjakan tugasnya. Masih belum sepenuhnya paham fungsi mana saja yang harus dilibatkan dalam fuse operation dan ada deadline tugas matkul lain. Terimakasih
